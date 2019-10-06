@@ -1,0 +1,26 @@
+body {
+  background-color:#ecf0f1;
+  font-family:"Helvetica", Arial;
+}
+
+h1 {
+  color:#1d2ad5;
+}
+
+a {
+  color: #1d2ad5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #c3d7df;
+  }
+  
+  table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+}
