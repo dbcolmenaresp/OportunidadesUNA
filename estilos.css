@@ -3,6 +3,13 @@ body {
   font-family:"Helvetica", Arial;
 }
 
+p {
+  font-size: 150%;
+  line-height: 150%;
+  text-indent:3%;
+  text-align:justify;
+}
+
 #encabezado{
   display: block;
   width: 500;
