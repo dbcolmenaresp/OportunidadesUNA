@@ -33,8 +33,22 @@ a {
 a:hover {
   color: #c3d7df;
   }
-  
-  table {
+
+img{
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+}
+
+#imagenderecha{
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
+#imagenizquierda{
+  float: left;
+}
+
+table {
     border-collapse: collapse;
 }
 
