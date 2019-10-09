@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  margin: 0 5% 3% 5%;
+  margin: 5% 5% 3% 5%;
   line-height:155%;
   text-indent:3%;
   text-align:justify;
@@ -35,7 +35,7 @@ ul {
 }
 
 ul li{
-  font-size: 15px;
+  font-size: 20px;
 }
 
 a {
