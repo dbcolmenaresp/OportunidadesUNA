@@ -4,8 +4,11 @@ body {
 }
 
 p {
+  margin: 0 5% 3% 5%;
+  line-height:155%;
   text-indent:3%;
   text-align:justify;
+  font-size:20px;
 }
 
 #encabezado{
@@ -22,6 +25,17 @@ p {
 
 h1, h2, h3 {
   color:#1d2ad5;
+  line-height: 155%;
+  text-align: center;
+  text-transform:uppercase;
+}
+
+ul {
+  margin: 0 5% 3% 5%;
+}
+
+ul li{
+  font-size: 15px;
 }
 
 a {
