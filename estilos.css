@@ -55,12 +55,12 @@ img{
 
 #imagenderecha{
   float: right;
-  margin: 0 0 10px 10px;
+  margin: 0 5% 10px 10px;
 }
 
 #imagenizquierda{
   float: left;
-  margin: 0 10px 10px 0;
+  margin: 0 10px 10px 5%;
 }
 
 table {
