@@ -81,6 +81,10 @@ footer {
   overflow: auto;
 }
 
+footer p {
+  font-color :#5feeed;
+}
+
 footer a:hover {
  color: #f5f5f5; 
 }
