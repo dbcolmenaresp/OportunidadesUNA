@@ -92,13 +92,9 @@ td, th {
 
 footer {
   background: #2c3e50;
-  font-color: #fff;
+  font-color: #f7f3f2;
   width: 100%;
   overflow: auto;
-}
-
-footer p {
-  font-color :#fff;
 }
 
 footer a:hover {
